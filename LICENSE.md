@@ -6,7 +6,7 @@ All pictures are licensed under the licenses indicated in the last slide.
 Slides
 ==========
 
-Everything else is placed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Everything else is placed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 # Attribution-ShareAlike 4.0 International
